@@ -27,7 +27,6 @@
   <img src ="./images/es6.svg" alt="ES6 logo" width="8%" title='ES6'/>
   <img src ="./images/react.svg" alt="react logo" width="8%" title='React'/>
   <img src ="./images/redux.svg" alt="redux logo" width="8%" title='Redux'/>
-  <img src ="./images/gatsby.svg" alt="Gatsby logo" width="8%" title='Gatsby'/>
 <div>
 
 ### Backend Technologies
