@@ -4,7 +4,7 @@
 
 <p align="center">Full Stack/ Frontend Developer</p>
 
-- 📫 How to reach me:  <a href="https://www.linkedin.com/in/ahronlu/" target="_blank" rel="nofollow"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
+You can reach me here: <a href="https://www.linkedin.com/in/ahronlu/" target="_blank" rel="nofollow"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
 
 ### Languages and Tools:
 
